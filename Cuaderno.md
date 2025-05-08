@@ -13,3 +13,5 @@ Las bitácoras suelen ser llevadas por capitanes de barcos, pilotos de aviación
 
 
 Edito este archivo para el repo de Sergio
+
+Estos son otros cambios
