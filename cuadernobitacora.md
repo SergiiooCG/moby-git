@@ -16,5 +16,7 @@ Se recibe para hacer un commit
 ### Día 4
 Estudiamos los camoandos
 
+Edito este archivo para el repo de Sergio
+
 
 

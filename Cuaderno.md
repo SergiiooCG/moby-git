@@ -10,3 +10,6 @@ Las bitácoras suelen ser llevadas por capitanes de barcos, pilotos de aviación
 | Fecha      	| Hechos |
 | -------------	| ------ |
 | 05/05/2025	| Creación del primer registro
+
+
+Edito este archivo para el repo de Sergio
