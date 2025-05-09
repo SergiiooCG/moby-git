@@ -20,5 +20,8 @@ Edito este archivo para el repo de Sergio
 
 Y estos son otros cambios!!
 
+## Enlazo otra foto:
+![2 Imagen creada](./cuadernoBit.jpg)
+
 
 
